@@ -1,0 +1,15 @@
+{
+  "short_name": "Ценомер",
+  "name": "Моят Ценоразпис 2026",
+  "icons": [
+    {
+      "src": "cdn-icons-png.flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff4b4b",
+  "background_color": "#ffffff"
+}
